@@ -11,7 +11,7 @@
 
 # some screenshots of your work
 ### Model Transformation
-![line.gif](./data/gif/model trans.gif)
+![line.gif](./data/gif/modeltrans.gif)
 ### Perspective Rendering
 ![line.gif](./data/gif/per.gif)
 ### Depth Buffer
