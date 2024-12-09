@@ -11,15 +11,15 @@
 
 # some screenshots of your work
 ### Model Transformation
-![line.gif](./data/video1.gif)
+![line.gif](./data/gif/model trans.gif)
 ### Perspective Rendering
-
+![line.gif](./data/gif/per.gif)
 ### Depth Buffer
-
+![line.gif](./data/gif/depth.gif)
 ### Camera Control
-
+![line.gif](./data/gif/camera.gif)
 ### Backculling
-
+![line.gif](./data/gif/backculling.gif)
 
 
 # how you completed these tasks
